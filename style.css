@@ -109,3 +109,78 @@
     text-transform: capitalize;
     text-align: center;
 }
+/* about-section-end */
+/* services-section-start */
+.services{
+    text-align: center;
+
+
+
+}
+.service{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+   
+}
+.service{
+    background-color: darkgray;
+
+
+}
+.servic-box img{
+    width: 56px;
+}
+
+.servic-box {
+    background: black;
+    color: white;
+    padding: 40px 28px;
+    border-radius: 8px;
+}
+.servic-box h2 {
+    padding-bottom: 12px;
+}
+.servic-box h4 {
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 23px;
+}
+button.-deta {
+    border: none;
+    background: gray;
+    padding: 9px;
+    color: white;
+    text-transform: uppercase;
+    padding: 10px;
+    margin-top: 10px;
+}
+.services h2 {
+    text-align: center;
+    font-size: 50px;
+    text-transform: capitalize;
+    padding: 39px 0px;
+}
+/* services-section-end */
+/* footer-section-end */
+.foter{
+    background-color: black;
+    padding: 30px;
+    color: white;
+
+}
+.foter-main{
+    display: flex;
+    justify-content: center;
+
+}
+.footer-box{
+
+}
+.footer-box img{
+    width: 130px;
+
+}
+.footer-box h4{
+
+}

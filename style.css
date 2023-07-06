@@ -71,3 +71,41 @@
     padding: 15px;
     border-radius: 7px;
 }
+.about-left{
+
+}
+.about-left img{
+    width: 380px;
+}
+.about-right{
+
+}
+.about{
+    padding: 50px 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.about h2{
+    text-align: center;
+    font-size: 50px;
+    text-transform: capitalize;
+    padding-bottom: 20px;
+
+}
+.b-btn {
+    border: none;
+    text-transform: uppercase;
+    background: #f06c19;
+    color: white;
+    padding: 15px;
+    border-radius: 7px;
+    margin-top: 25px;
+}
+.ab-to{
+    padding: 20px 0px;
+    font-size: 55px;
+    text-transform: capitalize;
+    text-align: center;
+}
